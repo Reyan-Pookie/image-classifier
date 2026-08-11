@@ -1,6 +1,15 @@
 # 🖼️ AI Image Classifier
 
 An AI-powered image classification web application that uses **Google Gemini** to analyze images and identify **dog breeds, car brands, and cities**.
+## 📸 Preview
+
+### Image Upload
+
+![Image Classifier Upload](screenshots/upload.png)
+
+### Classification Result
+
+![German Shepherd Classification](screenshots/classification-result.png)
 
 ## ✨ Features
 
